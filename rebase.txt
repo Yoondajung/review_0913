@@ -20,6 +20,7 @@ hello branch3
 rebase
 hi rebase
 
+stash
 
 
 
