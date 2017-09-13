@@ -15,7 +15,7 @@ Pick
 ADD REBASE
 new branch3
 REBASE BRANCH3
-
+hi branch3
 
 
 
